@@ -1,0 +1,14 @@
+transformers
+datasets
+SudachiPy
+SudachiDict_core
+spacy-alignments
+seqeval
+evaluate
+torch
+numpy
+huggingface_hub
+pandas
+protobuf
+sentencepiece
+accelerate
